@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "## Description > This repository is created for a deeper understanding of API development with Express.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon ./src/index.mjs",
+    "start": "node ./src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xclusivesmash/Express.git"
+  },
+  "keywords": [],
+  "author": "Siphamandla Matshiane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xclusivesmash/Express/issues"
+  },
+  "homepage": "https://github.com/xclusivesmash/Express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "type": "module"
+}
